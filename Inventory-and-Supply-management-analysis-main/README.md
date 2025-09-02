@@ -34,5 +34,5 @@ To work on this project:
 
 
 
-                                          Made with ❤️ by Siddharth Tripathi
+                                          Made with ❤️ by SWapnil Singh
 
